@@ -18,3 +18,9 @@ making experimental changes. or working in paralell with someone else
 
 How do the diagrams help you visualize the branch structure?
 helps you remember that branches are linear and basically a point in time.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+combining two different paths to create a new trunk or head
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+autmatic will be faster and usually Ok, but when its not it can break things
